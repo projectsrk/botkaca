@@ -13,7 +13,7 @@ CONFIG = Config({
     'API_ID' : None,
     'BOT_TOKEN' : None,
     'BOT_PASSWORD' : None,
-    'CHAT_ID' : '',
+    'CHAT_ID' : -1001233965525,
     'EDIT_SLEEP' : 3,
     'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
     'UPLOAD_AS_DOC' : 0,
